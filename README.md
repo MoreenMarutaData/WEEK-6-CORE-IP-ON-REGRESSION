@@ -3,7 +3,7 @@ A prediction result of a game between team 1 and team 2, based on who's home and
 
 
 
-TECHNOLOGY USED Python libraries- numpy, pandas
+TECHNOLOGY USED Python libraries- numpy, pandas, sklearn, scipystats, matplotlib, seaborn
 
 KNOWN BUGS There are no known bugs in the project.
 
